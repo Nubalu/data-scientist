@@ -28,7 +28,7 @@ You have to choose and train a model to predict Spanish Property Price Index (PP
 
 Build some Python3 script using libraries like `pandas`,  `sklearn` or similar to solve that, and make available both `.py  `  script and some `.md` or `.pdf` document showing your results (Loss graph, RMSE...)  on any personal repository, Dropbox or similar collaborative tools.
 
-**Bonus**:  Propose some dataset or model improvement that could improve significantly your results.
+**Bonus**:  Propose some dataset or model change that could improve significantly your results.
 
 If you have any doubt, please feel free to contact us at jobs@nubalu.io.
 
